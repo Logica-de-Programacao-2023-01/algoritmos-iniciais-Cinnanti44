@@ -1,0 +1,6 @@
+1.leia uma lista de numeros
+2.leia numero por numero
+3.quando o numero for encontrado
+4.escreva o numero
+5.retorne a posição desse numero.
+
