@@ -1,0 +1,11 @@
+1.leia z:valor da base
+2.leia y valor da altura
+3.faça: (Z x Y)/2
+4.escreva a area do triangulo
+
+
+
+
+
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Lin
