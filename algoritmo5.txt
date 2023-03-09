@@ -1,0 +1,6 @@
+1.leia x
+2.x pertence aos reais.
+3.leia y
+4.y pertence aos inteiros.
+5.leia x^y=x^y-1.x
+6.escreva a potencia.
