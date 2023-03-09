@@ -1,0 +1,7 @@
+1.leia x
+2.leia numeros primos
+3.divida sucessivamente x por numeros primos
+4.se o resto for zero
+5.então x não e primo
+6.se nenhum resto for zero
+7.então x é primo.
