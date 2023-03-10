@@ -1,6 +1,6 @@
-1.leia uma lista de numeros
-2.leia numero por numero
-3.quando o numero for encontrado
-4.escreva o numero
-5.retorne a posição desse numero.
-
+1.leia x
+2.leia lista
+3.para cada elemento da lista faça:
+4      se elemento for igual a x
+5.        então escreva x
+6.escreva "não encontrei"
